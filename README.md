@@ -35,3 +35,5 @@ A simple Bash script to analyze and display basic Linux server performance metri
 
    ```bash
    chmod +x server-stats.sh
+
+URL: https://roadmap.sh/projects/server-stats
